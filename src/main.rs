@@ -1,3 +1,14 @@
+
+use sysinfo::{
+    Components, 
+    // Disks, 
+    // Networks, 
+    // System,
+};
+
+
 fn main() {
-    println!("Hello, world!");
+    // let mut sys = System::new_all();
+
+    // sys.refresh_all();
 }
